@@ -10,7 +10,7 @@ COLOR = (245, 152, 66)
 BG_COLOR = (255, 255, 245)
 
 def main():
-    screen = pygame.display.set_mode((ROWS * SIZE, COLUMNS * SIZE)) ##
+    screen = pygame.display.set_mode((ROWS * SIZE, COLUMNS * SIZE)) #
 
     try:
 
